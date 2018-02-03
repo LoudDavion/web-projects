@@ -1,0 +1,58 @@
+body {
+    background-color: #ffffee;
+    background-image: url(fade.png);
+    background-repeat: repeat-x;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #880000;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    background-color: white;
+    margin: auto;
+}
+
+.whatischan {
+    background-color: #880000;
+    color: white;
+    padding: 5px;
+}
+.whatischantext {
+    color: black;
+
+}
+
+.boardstitle {
+    padding: 5px;
+    background-color: #ffccaa;
+}
+
+.centersection {
+    width: 39%;
+    border: #880000;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.textplace {
+    padding: 5px;
+    font-size: 12px;
+    overflow: hidden;
+}
+
+.centerimage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.grid {
+float: left;
+width: 12em;
+}
+
